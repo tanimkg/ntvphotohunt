@@ -1,0 +1,29 @@
+{
+  "name": "ntvphotohunt",
+  "version": "1.0.0",
+  "description": "A bot to download NTVBD.com photos",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ntv",
+    "download",
+    "bot"
+  ],
+  "author": "Touhidur Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.72.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanimkg/ntvphotohunt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tanimkg/ntvphotohunt/issues"
+  },
+  "homepage": "https://github.com/tanimkg/ntvphotohunt#readme"
+}
