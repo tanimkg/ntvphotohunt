@@ -1,7 +1,7 @@
 /**
-* A Simple node bot to download photos from NTVBD.com
+* A Simple node bot to download photos from photo.NTVBD.com - a popular news/tv site
 * URLs should be like:
-* http://photo.ntvbd.com/entertainment/bangladesh/prova/smiling-actress-sadia-jahan-prova/1456826247.ntv
+* http://photo.ntvbd.com/bangladesh/others/boishakhi-mela-at-bangla-academy/1460908587.ntv
 * Usage: Open the folder in terminal and run "node bot"
 * Make sure that "links.txt" file is present and each line contains single link 
 *
